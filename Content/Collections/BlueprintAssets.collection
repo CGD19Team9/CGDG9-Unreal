@@ -1,0 +1,10 @@
+FileVersion:2
+Type:Static
+Guid:15694468-4EB5-41EC-72FE-21834C288E51
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Base/Blueprints/Gamemode/CheckPoint.CheckPoint
+/Game/Base/Blueprints/Gamemode/LevelStart.LevelStart
+/Game/Base/Blueprints/Loot/BP_LargeChest.BP_LargeChest
+/Game/Base/Blueprints/Loot/BP_SmallChest.BP_SmallChest
+/Game/Base/Blueprints/Pickups/BP_Pickup.BP_Pickup

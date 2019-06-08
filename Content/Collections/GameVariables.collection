@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:C81C5B42-4831-CE2A-1C86-47BFEC5E5859
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Base/Blueprints/Gamemode/DataTableEnemySpawn.DataTableEnemySpawn
+/Game/Base/Blueprints/Loot/LootTable.LootTable
+/Game/Base/Blueprints/Pickups/DataTable_Pickups.DataTable_Pickups
